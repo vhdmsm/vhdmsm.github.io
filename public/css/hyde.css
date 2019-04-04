@@ -192,17 +192,20 @@ a.sidebar-nav-item:focus {
   .layout-reverse .content {
     margin-left: 2rem;
     margin-right: 26rem;
+    max-width: 80%;
   }
 }
 
 @media (min-width: 64rem) {
   .layout-reverse .content {
+    max-width: 60%;
     margin-left: 4rem;
     margin-right: 26rem;
   }
 }
 @media (min-width: 96rem) {
   .layout-reverse .content {
+    max-width: 60%;
     margin-left: 4rem;
     margin-right: 36rem;
   }
