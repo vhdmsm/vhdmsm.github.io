@@ -39,7 +39,7 @@ url="https://simply-communicate.com/wp-content/uploads/2018/04/maxresdefault.jpg
 کراول بشه و که از طریق این
 [لینک](https://github.com/expectocode/telegram-export) در دسترس هست.
 برای نصب نسخه فورک‌شده‌ی من، بعد از clone پروژه و ترجیحا ایجاد یک
-virtualenv، باید کتابخونه رو با اجرای کامند `python setup.py install `
+virtualenv، باید کتابخونه رو با اجرای کامند `python setup.py install`
 نصب کنید. بعد از نصب باید فایل config.ini که sample اش داخل پروژه
 telegram-export وجود داره رو داخل مسیر پروژتون ایجاد کنید که یه نمونه از
 این فایل رو پایین‌تر گذاشتم و بخش‌هایی که برای راه‌انداختن باید پرشون کنید
