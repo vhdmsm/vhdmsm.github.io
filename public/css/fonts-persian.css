@@ -1,0 +1,18 @@
+@font-face {
+    font-family: Vazir;
+    font-weight: 400;
+    src: url(/public/css/fonts-local/Vazir.ttf) format("truetype"),url(/public/css/fonts-local/Vazir.eot?) format("eot"),url(../fonts/vazir/Vazir.woff) format("woff"),url(../fonts/vazir/Vazir.woff2) format("woff2")
+}
+
+
+@font-face {
+    font-family: Vazir;
+    font-weight: 300;
+    src: url(/public/css/fonts-local/Vazir-Medium.ttf) format("truetype"),url(../fonts/Vazir-Medium.eot?) format("eot"),url(../fonts/Vazir-Medium.woff) format("woff"),url(../fonts/Vazir-Medium.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: Vazir;
+    font-weight: 700;
+    src: url(/public/css/fonts-local/Vazir-Bold.ttf) format("truetype"),url(/public/css/fonts-local/Vazir-Bold.eot?) format("eot"),url(/public/css/fonts-local/Vazir-Bold.woff) format("woff"),url(/public/css/fonts-local/Vazir-Bold.woff2) format("woff2")
+}
