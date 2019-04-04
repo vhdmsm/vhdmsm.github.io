@@ -10,11 +10,11 @@ title:            وحید معصومی
 tagline:          'Vahid Masoumi'
 description:      'از تجربیات شخصیم درباره چیزهای جالب و به خصوص حوزه دیتا می‌نویسم'
 avatar: 'https://avatars3.githubusercontent.com/u/6222662?s=460&v=4'
-url:              http://databazi.ir/
+url:              https://databazi.ir/
 
 author:
   name:           'وحید معصومی'
-  url:            http://databazi.ir/
+  url:            https://databazi.ir/
 
 
 paginate:         2
@@ -24,9 +24,9 @@ emailme:          mailto:vhdmsm@gmail.com
 gems:             [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
 
 github:
-  repo:           https://github.com/vhdmsm/qian256.github.io
+  repo:           https://github.com/vhdmsm/vhdmsm.github.io
 
-tags:
+tags: machine-learning
 
 disqus: vhdmsm-github-io
 email: vhdmsm@gmail.com

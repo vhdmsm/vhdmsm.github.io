@@ -374,6 +374,17 @@ tbody tr:nth-child(odd) th {
       margin-bottom: 1.1em;
     }
 
+    figcaption {
+      text-align: center;
+      font-size: 80%;
+      font-style: normal;
+    }
+
+    pre {
+      direction: ltr;
+      text-align: left;
+    }
+
     .comments {
       margin-top: 10px;
     }

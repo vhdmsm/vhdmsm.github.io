@@ -16,7 +16,7 @@ import os
 post_dir = '_posts/'
 tag_dir = 'tag/'
 
-filenames = glob.glob(post_dir + '*html')
+filenames = glob.glob(post_dir + '*.*')
 
 total_tags = []
 for filename in filenames:
