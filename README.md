@@ -1,4 +1,4 @@
-# My Blog
+# My Personal Blog
 
 Writing about my experiences working on data. [http://databazi.ir](http://databazi.ir)
 
